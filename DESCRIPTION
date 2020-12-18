@@ -1,0 +1,13 @@
+Package: MAE441APackage
+Type: Package
+Title: ECON 441A PAckage
+Version: 0.1.0
+Author: Andrew Salguero
+Maintainer: The package maintainer: Andrew Salguero <asalguero23@g.ucla.edu>
+Description: A simple package with the idea of understanding on how to upload a package on Git. This package contains a function to access the Fred API. Other minor functions are built in the package such as a BMI calculator and temperature converter.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    jsonlite
+RoxygenNote: 7.1.1
